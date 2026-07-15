@@ -17,3 +17,11 @@ nanosecond-oriented market data, options intelligence, and agentic quant researc
 ```powershell
 python -m pytest -q
 ```
+
+## Milestone depth
+
+This repo includes additional milestone-depth notes:
+
+- [System design](docs/system-design.md)
+- [Validation evidence](docs/validation-evidence.md)
+- [Operating boundaries](docs/operating-boundaries.md)
